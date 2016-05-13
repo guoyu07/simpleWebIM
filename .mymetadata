@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="webIM"
+  id="myeclipse.1457338734046"
+  context-root="/"
+  j2ee-spec="6.0"
+  archive="webIM.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
